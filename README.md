@@ -4,3 +4,7 @@
 
 
 This repository contains the Jupyter notebook exercises for the course Machine Learning for Medical Students.
+
+## How to Run
+
+Refer to the [COLAB_SETUP](COLAB_SETUP.md) for running the notebooks on Google Colaboratory.
