@@ -8,3 +8,7 @@ This repository contains the Jupyter notebook exercises for the course Machine L
 ## How to Run
 
 Refer to the [COLAB_SETUP](COLAB_SETUP.md) for running the notebooks on Google Colaboratory.
+
+## Tutorials
+
+More information and additional material can be found here [Summary of Tutorials](ListOfTutorials.md)
